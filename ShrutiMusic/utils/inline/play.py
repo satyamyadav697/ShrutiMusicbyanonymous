@@ -128,4 +128,4 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
     ]
 
 # Credit
-# Modified with love by Satyam Yadav@AuraAnonymous
+# Modified with love by Satyam Yadav @AuraAnonymous
