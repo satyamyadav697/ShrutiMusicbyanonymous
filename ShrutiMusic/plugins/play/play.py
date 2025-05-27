@@ -664,6 +664,3 @@ async def slider_queries(client, CallbackQuery, _):
             caption=_["play_10"].format(
                 title.title(),
                 duration_min,
-            ),
-        )
-        )
