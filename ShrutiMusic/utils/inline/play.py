@@ -70,8 +70,8 @@ def stream_markup_timer(_, chat_id, played, dur):
             )
         ],
         [
-            InlineKeyboardButton(text="𝐂ʜᴀᴛʙᴏᴛ", url="https://t.me/EraChatrobot"),
-            InlineKeyboardButton(text="𝐌ᴀɴᴀɢᴇʀ", url="https://t.me/AradhanaMusicbot"),
+            InlineKeyboardButton(text="𝐂ʜᴀᴛʙᴏᴛ", url="https://t.me/ShrutixRobot"),
+            InlineKeyboardButton(text="𝐌ᴀɴᴀɢᴇʀ", url="https://t.me/ShrutixMusicBot"),
         ],
     ]
 
@@ -128,4 +128,4 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
     ]
 
 # Credit
-# Modified with love by Nand Yaduwanshi / Satyam Yadav 
+# Modified with love by Nand Yaduwanshi @WTF_WhyMeeh
