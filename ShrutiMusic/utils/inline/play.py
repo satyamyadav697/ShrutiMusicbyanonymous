@@ -66,14 +66,8 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=f"{played} {progress_bar} {dur}",
-                url="https://t.me/AradhanaMusicbot?startgroup=true"
-            )
         ],
         [
-            InlineKeyboardButton(text="𝐂ʜᴀᴛʙᴏᴛ", url="https://t.me/EraChatrobot"),
-            InlineKeyboardButton(text="𝐌ᴀɴᴀɢᴇʀ", url="https://t.me/AradhanaMusicbot"),
-        ],
-    ]
 
 # Stream Buttons without Timer
 def stream_markup(_, chat_id):
